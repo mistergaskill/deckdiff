@@ -1,0 +1,24 @@
+{
+  "name": "Face",
+  "player": "Gaara",
+  "cards": {
+    "Starving Buzzard": 2,
+    "Stonetusk Boar": 2,
+    "Abusive Sergeant": 2,
+    "Leper Gnome": 2,
+    "Wolfrider": 2,
+    "Arcane Golem": 1,
+    "Leeroy Jenkins": 1,
+    "Hunter's Mark": 2,
+    "Flare": 1,
+    "Tracking": 2,
+    "Arcane Shot": 1,
+    "Misdirection": 1,
+    "Freezing Trap": 2,
+    "Explosive Trap": 1,
+    "Kill Command": 2,
+    "Unleash the Hounds": 2,
+    "Animal Companion": 2,
+    "Eaglehorn Bow": 2
+  }
+}

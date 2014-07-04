@@ -1,0 +1,25 @@
+{
+  "name": "Hunter OP",
+  "player": "Dart",
+  "cards": {
+    "Timber Wolf": 1,
+    "Starving Buzzard": 2,
+    "Abusive Sergeant": 1,
+    "Stonetusk Boar": 1,
+    "Leper Gnome": 2,
+    "Wolfrider": 2,
+    "Arcane Golem": 1,
+    "Leeroy Jenkins": 1,
+    "Hunter's Mark": 2,
+    "Flare": 1,
+    "Tracking": 2,
+    "Arcane Shot": 1,
+    "Misdirection": 2,
+    "Explosive Trap": 2,
+    "Deadly Shot": 1,
+    "Unleash the Hounds": 2,
+    "Kill Command": 2,
+    "Animal Companion": 2,
+    "Eaglehorn Bow": 2
+  }
+}

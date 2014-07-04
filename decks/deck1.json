@@ -1,0 +1,24 @@
+{
+  "name": "Boar",
+  "player": "Firebat",
+  "cards": {
+    "Timber Wolf": 1,
+    "Starving Buzzard": 2,
+    "Stonetusk Boar": 2,
+    "Leper Gnome": 2,
+    "Faerie Dragon": 1,
+    "Arcane Golem": 1,
+    "Leeroy Jenkins": 1,
+    "Hunter's Mark": 2,
+    "Tracking": 2,
+    "Flare": 2,
+    "Arcane Shot": 1,
+    "Explosive Trap": 2,
+    "Freezing Trap": 2,
+    "Misdirection": 2,
+    "Kill Command": 2,
+    "Unleash the Hounds": 2,
+    "Animal Companion": 1,
+    "Eaglehorn Bow": 2
+  }
+}
